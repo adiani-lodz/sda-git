@@ -10,3 +10,4 @@ public class OperationValidator {
                     "To nie jest znak działania matematycznego");
     }
 }
+//najpierw robimy commit ctrl + k, potem push.
